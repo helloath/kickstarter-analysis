@@ -42,4 +42,4 @@ A limitation of this dataset is outcomes based on launch year.
 
 **- What are some other possible tables and/or graphs that we could create?**
 
-Other possible tables and/or graphs that could be created could provide detail specific to year or country. 
+Other possible tables and/or graphs that could be created could provide detail specific to year and country. 
